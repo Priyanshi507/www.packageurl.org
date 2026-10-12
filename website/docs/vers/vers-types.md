@@ -21,7 +21,7 @@ Most software package ecosystems have a version scheme. Some variation of
 version string, but it does not provide a way to express version ranges.
 
 The following table lists versioning schemes for some common registered [PURL
-(Package-URL) **types**](ttps://www.packageurl.org/docs/purl/purl-types#registered-purl-types).
+(Package-URL) **types**](https://www.packageurl.org/docs/purl/purl-types#registered-purl-types).
 If there is a registered PURL **type** for a package ecosystem, the PURL type
 will also be the name for the VERS **type**.
 
