@@ -5,7 +5,7 @@ sidebar_label: ECMA-427 1st Edition
 hide_table_of_contents: true
 ---
 
-# Core Specification
+# ECMA-427 1st Edition
 
 The PURL (Package-URL) specification has been standardized with
 [ECMA-427 1st Edition](https://ecma-international.org/publications-and-standards/standards/ecma-427/).
